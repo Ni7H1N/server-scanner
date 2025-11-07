@@ -1,0 +1,6 @@
+@"
+output/
+output/runs/
+.qodo/
+*.log
+"@ | Out-File -Encoding utf8 .gitignore
